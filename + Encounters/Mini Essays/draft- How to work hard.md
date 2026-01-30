@@ -1,5 +1,4 @@
-
-
+If you were to give yourself advice on how to work hard what would you say?
 
 Guide on how to work hard
 aka what to do
