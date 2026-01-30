@@ -1,3 +1,5 @@
+tool:: [[Self Control]]
+type:: #note/guide
 I'll help you set up a launchd job (the macOS-preferred way over cron) to run SelfControl every morning at 6 AM for 3 hours.
 
 First, let me check if you have SelfControl installed and find its CLI path.
@@ -176,6 +178,7 @@ To test it now:
 
 ~/.selfcontrol/start-block.sh
 To add more sites to block, edit ~/.selfcontrol/blocklist.selfcontrol and add more <string>site.com</string> entries.
+
 
 Useful commands:
 
