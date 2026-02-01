@@ -1,4 +1,5 @@
 tags:: [[fitness]] 
+status:: #
 
 For most of my life, exercise has been **marketed as a weight loss strategy**. At the start of every year there is the spike in gym memberships of people who want to lose weight.  We have all heard the phrase **calories in, calories out**. If you spend time at the gym burning more calories that you eat you will lose weight.
 
