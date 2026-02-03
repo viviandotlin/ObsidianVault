@@ -10,6 +10,10 @@ screens.lib
 about:blank
 [inDev](https://square.lndev.me/)
 [Kavoft](https://www.youtube.com/@Kavsoft)
+
+
+[square-ui](https://ecaefmew.mychariow.shop/prd_ac6igu)
+
 **Copy**: steal their systems - their morning routines, writing habits, tools, workflows.
 [[How create a screen]]
 
