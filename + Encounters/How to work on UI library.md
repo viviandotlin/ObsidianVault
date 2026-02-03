@@ -10,7 +10,9 @@ test stick to one thing (each month focus on a single app insteading of jumping 
 focus doing by apps first
 clone perplexity
 clone airbnb
-clone youtube
+clone **jira/linear**
+clone **spotify/music platform** -> core structure, the styles can be changed and improved upon
+
 
 take the UI logic and place it somewhere else
 
