@@ -4,6 +4,10 @@ type:: #map/project
 screen-library.dev
 screens.lib
 
+clean and refactor the repo
+need to continously look at the code over time to improve on it
+this is why is is not good to be keep jumpng from app to app
+
 **Study**: find 3 people doing the job you want and reverse-engineer their path.
 [Magic UI](https://magicui.design/)
 [Align ui](about:blank)
