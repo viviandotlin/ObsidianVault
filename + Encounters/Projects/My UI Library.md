@@ -1,5 +1,9 @@
 type:: #map/project
 
+[[**ui-screens.dev**]]
+screen-library.dev
+screens.lib
+
 **Study**: find 3 people doing the job you want and reverse-engineer their path.
 [Magic UI](https://magicui.design/)
 [Align ui](about:blank)
