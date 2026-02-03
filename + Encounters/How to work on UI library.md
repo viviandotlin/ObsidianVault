@@ -13,7 +13,7 @@ clone airbnb
 clone **jira/linear**
 clone **spotify/music platform** -> core structure, the styles can be changed and improved upon
 
-
+makeing a screen a day until i'm good? 
 take the UI logic and place it somewhere else
 
 [add-to-component-docs](https://x.com/him_uiux/status/2018368896047411323)
