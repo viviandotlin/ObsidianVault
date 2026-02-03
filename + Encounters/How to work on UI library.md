@@ -21,4 +21,6 @@ organize your computer/folders clear and remove thins
 [add-to-component-docs](https://x.com/him_uiux/status/2018368896047411323)
 
 
+copy first and then create your own
+
 lol organize you library
