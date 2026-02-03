@@ -17,3 +17,6 @@ clone **spotify/music platform** -> core structure, the styles can be changed an
 take the UI logic and place it somewhere else
 
 [add-to-component-docs](https://x.com/him_uiux/status/2018368896047411323)
+
+
+lol organize you library
