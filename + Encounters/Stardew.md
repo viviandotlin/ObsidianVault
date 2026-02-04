@@ -24,21 +24,21 @@ https://community.playstarbound.com/threads/stardew-valley-1-1-newbie-guide.1250
 - [x] Note: Need exactly 15 Parsnips to reach Farming level for Scarecrow on Day 5
 
 ### Path Clearing (if energy remains)
-- [ ] Clear path to Northern exit of farm
-- [ ] Clear path to Southern exit of farm
-- [ ] (Hilltop Farm only) Clear path to mining area on mid-left side
+- [x] Clear path to Northern exit of farm
+- [x] Clear path to Southern exit of farm
+- [x] (Hilltop Farm only) Clear path to mining area on mid-left side
 - [ ] Remember: Vertical bridges not usable yet, horizontal bridges are fine
 
 ### Additional Tasks (if time/energy remains)
-- [ ] Chop down more trees for wood
-- [ ] (Hilltop Farm only) Mine copper/geodes in mining area
+- [x] Chop down more trees for wood
+- [x] (Hilltop Farm only) Mine copper/geodes in mining area
 
 
 ## Stardew Valley Day 2-3 Checklist
 
 ### Morning Routine
-- [ ] Check mail for letter from Willy (should arrive Day 2 or Day 3)
-- [ ] Water all parsnips before leaving farm
+- [x] Check mail for letter from Willy (should arrive Day 2 or Day 3)
+- [x] Water all parsnips before leaving farm
 
 ### Getting the Fishing Pole
 - [ ] Visit the beach before 5PM
