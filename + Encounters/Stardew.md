@@ -8,20 +8,20 @@ https://community.playstarbound.com/threads/stardew-valley-1-1-newbie-guide.1250
 ## Stardew Valley Day 1 Checklist
 
 ### Initial Setup
-- [ ] Choose Forest farm layout
-- [ ] Hoe out 15 squares
-- [ ] Plant all 15 Parsnip Seeds
+- [x] Choose Forest farm layout
+- [x] Hoe out 15 squares
+- [x] Plant all 15 Parsnip Seeds
 
 ### Crafting & Storage
-- [ ] Cut down trees until you have 50 wood
-- [ ] Craft a chest
-- [ ] Place chest underneath your house (not on bare ground)
-- [ ] Store all non-sell items in chest
+- [x] Cut down trees until you have 50 wood
+- [x] Craft a chest
+- [x] Place chest underneath your house (not on bare ground)
+- [x] Store all non-sell items in chest
 
 ### Optional: Crow Protection
-- [ ] Buy 3 extra Parsnip Seeds from Pierre (insurance against crows)
-- [ ] Plant the 3 extra Parsnip Seeds
-- [ ] Note: Need exactly 15 Parsnips to reach Farming level for Scarecrow on Day 5
+- [x] Buy 3 extra Parsnip Seeds from Pierre (insurance against crows)
+- [x] Plant the 3 extra Parsnip Seeds
+- [x] Note: Need exactly 15 Parsnips to reach Farming level for Scarecrow on Day 5
 
 ### Path Clearing (if energy remains)
 - [ ] Clear path to Northern exit of farm
