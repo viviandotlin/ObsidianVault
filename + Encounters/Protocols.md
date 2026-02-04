@@ -1,7 +1,8 @@
 
 
 **fitness**
-HIIT 
+[[Interval walking]]
+[[]]
 
 **nutrition**
 
