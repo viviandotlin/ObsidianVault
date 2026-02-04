@@ -41,9 +41,9 @@ https://community.playstarbound.com/threads/stardew-valley-1-1-newbie-guide.1250
 - [x] Water all parsnips before leaving farm
 
 ### Getting the Fishing Pole
-- [ ] Visit the beach before 5PM
-- [ ] Watch cutscene with Willy
-- [ ] Receive fishing pole from Willy
+- [x] Visit the beach before 5PM
+- [x] Watch cutscene with Willy
+- [x] Receive fishing pole from Willy
 
 ### Fishing Activities
 - [ ] Fish at the beach until 9PM or low energy
