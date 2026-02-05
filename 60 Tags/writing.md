@@ -28,7 +28,7 @@ proof of thought  (newsletter name)
 **Courses**
 
 **Books**
-
+turn your. favoiraite youtube videos into blog posts
 **Tools**
 [[How to Write an Mini Essay]]
 [[How to write my newsletter]]
