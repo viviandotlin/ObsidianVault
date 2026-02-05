@@ -65,22 +65,37 @@ https://community.playstarbound.com/threads/stardew-valley-1-1-newbie-guide.1250
 - [x] Chop wood
 
 
-**x**
-- [ ] Explore the forest for forage items
+### Day 3 (Wednesday)  Pierre's Shop Closed
+ - [ ] Water all crops
+ - [ ] Chop down trees (aim for ~5-8 per day)
+	 - [ ] Collect 300 wood to repair beach bridge
+	 - [ ] Collect logs and stumps when found
+ - [ ] Clear farm debris
+- [ ] Explore the forest for forage items (Foraging Level 4 by Spring 15)
+- [ ] Check beach daily for forageable items
 - [ ] Explore area near Robin's shop for forage items
-- [ ] Water parsnips
+- [ ] Visit as many NPCs as possible daily
+	- [ ] Priority-Marnie (quartz), Caroline (daffodils)
 
-[Steam Community :: Guide :: First Year Walkthrough, Part 1 (Spring, Year 1)](https://steamcommunity.com/sharedfiles/filedetails/?id=2653922288)
+
+
+
+[Steam Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2653922288)
 ## Day 4
 - [ ] Water your Parsnips
+- [ ] Chop down trees (aim for ~5-8 per day)
+- [ ] Explore the forest for forage items (Foraging Level 4 by Spring 15)
+- [ ] Check beach daily for forageable items
 - [ ] Go fishing south of Jodi's house (far left bottom house in town)
   - Walk straight down from her door
   - Go all the way left until you hit a step in the river's edge
   - Cast south
 - [ ] **If NOT raining:** Keep 1 Sunfish in chest, sell the rest
 - [ ] **If raining:** Keep 1 Catfish and 1 Shad in chest, sell the rest
+- [ ] Visit as many NPCs as possible daily
+	- [ ] Priority-Marnie (quartz), Caroline (daffodils)
 
-## Day 5-6
+## Day 5-6 (add day 5-6)
 - [ ] Harvest Parsnips (need at least 15 - consider restart if less)
 - [ ] Buy 10-20 more Parsnip seeds
 - [ ] Buy 1 Green Bean starter
