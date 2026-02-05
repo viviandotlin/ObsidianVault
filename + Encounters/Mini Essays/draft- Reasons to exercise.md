@@ -1,12 +1,12 @@
 tags:: [[fitness]] 
 status:: #
 
-For most of my life, exercise has been **marketed as a weight loss strategy**. At the start of every year there is the spike in gym memberships of people who want to lose weight.  We have all heard the phrase **calories in, calories out**. If you spend time at the gym burning more calories that you eat you will lose weight.
+For most of my life, exercise has been **marketed as a weight loss strategy**. At the start of every year there is the spike in gym memberships of people who want to lose weight.
 
 However this is not how the body works, studies have shown that **exercise does not cause weight loss**.
 ![[Pasted image 20260103125735.png]]
 
-In fact energy expenditure actually plateaus, meaning the at after a certain amount of exercise, you don't keep burning calories at the same rate.
+In fact energy expenditure actually plateaus, **meaning the at after a certain amount of exercise**, you don't keep burning calories at the same rate.
 Our body sets a limit to how much energy it is willing to expend
 
 ![[Pasted image 20260110163717.png]]
