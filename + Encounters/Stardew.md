@@ -1,11 +1,12 @@
 Stardew 
-
+- fun idea
+- turn into a kanban board project, create your own app for it?
 https://stardewvalleywiki.com/Stardew_Valley_Wiki
 
 Simple Newbie guide
 https://community.playstarbound.com/threads/stardew-valley-1-1-newbie-guide.125018/
 
-## Stardew Valley Day 1 Checklist
+## Day 1
 
 ### Initial Setup
 - [x] Choose Forest farm layout
@@ -34,7 +35,7 @@ https://community.playstarbound.com/threads/stardew-valley-1-1-newbie-guide.1250
 - [x] (Hilltop Farm only) Mine copper/geodes in mining area
 
 
-## Stardew Valley Day 2-3 Checklist
+## Day 2-3 
 
 ### Morning Routine
 - [x] Check mail for letter from Willy (should arrive Day 2 or Day 3)
@@ -49,18 +50,51 @@ https://community.playstarbound.com/threads/stardew-valley-1-1-newbie-guide.1250
 - [x] Fish at the beach until 9PM or low energy
 - [x] Keep 1 Sardine for storage
 - [x] Sell remaining fish to Willy's shop (before it closes)
-- [ ] Alternative: Put fish in Shipping Crate near house
+- [x] Alternative: Put fish in Shipping Crate near house
 - [x] Stop fishing when:
-  - [ ] Running out of time (9PM+)
-  - [ ] Getting low on energy
-  - [ ] Inventory is full
+  - [x] Running out of time (9PM+)
+  - [x] Getting low on energy
+  - [x] Inventory is full
 
 ### End of Day
-- [ ] Store 1 Sardine in chest at house
-- [ ] Sell or ship all other fish
+- [x] Store 1 Sardine in chest at house
+- [x] Sell or ship all other fish
 
 ### Alternative Activities (if Willy's mail hasn't arrived)
-- [ ] Chop wood
+- [x] Chop wood
 - [ ] Explore the forest for forage items
 - [ ] Explore area near Robin's shop for forage items
 - [ ] Water parsnips
+
+## Day 4
+- [ ] Water your Parsnips
+- [ ] Go fishing south of Jodi's house (far left bottom house in town)
+  - Walk straight down from her door
+  - Go all the way left until you hit a step in the river's edge
+  - Cast south
+- [ ] **If NOT raining:** Keep 1 Sunfish in chest, sell the rest
+- [ ] **If raining:** Keep 1 Catfish and 1 Shad in chest, sell the rest
+
+## Day 5-6
+- [ ] Harvest Parsnips (need at least 15 - consider restart if less)
+- [ ] Buy 10-20 more Parsnip seeds
+- [ ] Buy 1 Green Bean starter
+- [ ] Buy 1 Potato seed
+- [ ] Check mail from Joja Corporation about Mine debris removal
+
+### If it RAINS:
+- [ ] Fish south of Jodi's house
+
+### If it DOESN'T rain:
+- [ ] Go to the Mine and meet Marlon
+- [ ] Receive Rusted Sword
+- [ ] **If you have 2,000g for backpack upgrade:**
+  - [ ] Try to reach Floor 5 (use elevator next time)
+  - [ ] Don't go more than 5 floors at once
+- [ ] Craft all Bug Meat into Bait
+- [ ] Store Bait and Slime in chest
+
+### Day 6 specifically:
+- [ ] **If Day 5 was dry and you reached Floor 5:** Go for Floor 10
+- [ ] **If Day 5 was rainy:** Do Floors 1-5
+- [ ] **If Day 6 is rainy:** Fish at river instead
