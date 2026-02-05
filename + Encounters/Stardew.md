@@ -63,10 +63,14 @@ https://community.playstarbound.com/threads/stardew-valley-1-1-newbie-guide.1250
 
 ### Alternative Activities (if Willy's mail hasn't arrived)
 - [x] Chop wood
+
+
+**x**
 - [ ] Explore the forest for forage items
 - [ ] Explore area near Robin's shop for forage items
 - [ ] Water parsnips
 
+[Steam Community :: Guide :: First Year Walkthrough, Part 1 (Spring, Year 1)](https://steamcommunity.com/sharedfiles/filedetails/?id=2653922288)
 ## Day 4
 - [ ] Water your Parsnips
 - [ ] Go fishing south of Jodi's house (far left bottom house in town)
