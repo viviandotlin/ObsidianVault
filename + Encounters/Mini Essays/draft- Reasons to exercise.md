@@ -1,7 +1,10 @@
 tags:: [[fitness]] 
 status:: #🟥 
 **To-do**
-- [ ] draw image on ipad of 
+- [ ] draw image on ipad of explanations (or use excalidraw?)
+- [ ] find examples of bio explanations that are visual as examples and include them here.
+
+
 For most of my life, exercise has been **marketed as a weight loss strategy**. At the start of every year there is the spike in gym memberships of people who want to lose weight.
 
 However this is not how the body works, studies have shown that **exercise does not cause weight loss**.
