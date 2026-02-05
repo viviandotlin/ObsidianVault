@@ -6,6 +6,7 @@ https://stardewvalleywiki.com/Stardew_Valley_Wiki
 Simple Newbie guide
 https://community.playstarbound.com/threads/stardew-valley-1-1-newbie-guide.125018/
 
+### Spring
 ## Day 1
 
 ### Initial Setup
@@ -98,3 +99,77 @@ https://community.playstarbound.com/threads/stardew-valley-1-1-newbie-guide.1250
 - [ ] **If Day 5 was dry and you reached Floor 5:** Go for Floor 10
 - [ ] **If Day 5 was rainy:** Do Floors 1-5
 - [ ] **If Day 6 is rainy:** Fish at river instead
+
+
+# Stardew Valley Spring Routine Checklist
+
+## Daily Priorities (In Order)
+
+### ✅ Priority #1: Crop Management
+- [ ] Water all crops
+- [ ] Harvest ready crops
+- [ ] Replant as needed
+- [ ] Maintain ~20 Parsnips (stop planting after Spring 23)
+- [ ] Keep Green Bean plant maintained
+- [ ] **RESERVE FOR CC BUNDLE:** Store 1 Potato + 1 Cauliflower in chest
+  - *Plant Cauliflower early (after first parsnip harvest) - takes 12 days!*
+
+### ☔ Priority #2: Rainy Days = Fishing Time
+- [ ] Go River Fishing south of Jodi's house
+- [ ] Sell all fish EXCEPT keep 1 of each:
+  - [ ] 1 Chub
+  - [ ] 1 Sardine
+  - [ ] 1 Catfish
+  - [ ] 1 Sunfish (requires sunny day fishing - stop once caught)
+
+### ☀️ Priority #3: Non-Rainy Days = Mining + Foraging
+- [ ] Balance mine trips with foraging time
+- [ ] **Spring Foraging Bundle - collect 1 of each:**
+  - [ ] Dandelion
+  - [ ] Daffodil
+  - [ ] Leek
+  - [ ] Wild Horseradish
+- [ ] Chop trees when foraging to use energy
+- [ ] **Never go to bed with full energy bar!** (unless out of time/holiday)
+
+### 🛒 Priority #4: Traveling Cart (Fridays & Sundays)
+- [ ] Visit Pig Merchant (exit farm south, go straight left)
+- [ ] **ALWAYS BUY if seen:**
+  - [ ] Rabbit's Foot (unless broke)
+  - [ ] Duck Feather (unless broke)
+  - [ ] Truffle (unless broke)
+- [ ] **BUY IF AFFORDABLE:**
+  - [ ] Quality Sprinklers
+  - [ ] Iridium Sprinklers (if ≤9k)
+- [ ] **OPTIONAL (if money is good):**
+  - [ ] Large Cow Milk, Large Eggs, Large Goat Milk, Wool, Cheese
+
+## Special Events & Milestones
+
+### 📅 Spring Events
+- [ ] Attend Egg Hunt
+- [ ] Attend Flower Dance
+- [ ] Talk to NPCs you encounter (don't go out of your way)
+
+### 🦇 Cave Choice (when you hit 25k Total Earnings)
+- [ ] Demetrius will offer Bats or Mushrooms
+- [ ] **CHOOSE MUSHROOMS**
+
+### 💰 End of Spring Goals
+- [ ] Have 10k+ money by Spring 28
+- [ ] Spring 28: Check for final harvests, then Pickaxe remaining crops
+  - *(Don't destroy Coffee plants if you have any)*
+
+---
+
+**Energy Management Rule:** Use all energy every day - mine, forage, chop trees. Never waste it!
+
+
+Your Goals for the End of Spring:
+
+ - [ ] Mine Level 30.
+ - [ ] Copper Pickaxe + Copper Axe. Do not worry about your Watering Can or your Hoe. Wait until Winter for those.
+ - [ ] Fishing Level 3-4.
+ - [ ] 36-Slot Backpack.
+ - [ ] Mushroom Cave.
+ - [ ]  10k+ current funds
