@@ -46,11 +46,11 @@ https://community.playstarbound.com/threads/stardew-valley-1-1-newbie-guide.1250
 - [x] Receive fishing pole from Willy
 
 ### Fishing Activities
-- [ ] Fish at the beach until 9PM or low energy
-- [ ] Keep 1 Sardine for storage
-- [ ] Sell remaining fish to Willy's shop (before it closes)
+- [x] Fish at the beach until 9PM or low energy
+- [x] Keep 1 Sardine for storage
+- [x] Sell remaining fish to Willy's shop (before it closes)
 - [ ] Alternative: Put fish in Shipping Crate near house
-- [ ] Stop fishing when:
+- [x] Stop fishing when:
   - [ ] Running out of time (9PM+)
   - [ ] Getting low on energy
   - [ ] Inventory is full
