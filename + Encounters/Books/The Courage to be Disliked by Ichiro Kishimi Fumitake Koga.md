@@ -27,7 +27,6 @@ by [[Ichiro Kishimi, Fumitake Koga]]
 
 
 
-
 ****
 **All problems are interpersonal relationship problems**, if one was alone in the universe all of one's problems would disappear. It is only in social contexts that problems can exist.
 

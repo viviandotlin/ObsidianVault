@@ -1,5 +1,5 @@
 tags:: [[fitness]] 
-status:: #🟥 
+status:: #🟩  
 **To-do**
 - [ ] draw image on ipad of explanations (or use excalidraw?)
 - [ ] find examples of bio explanations that are visual as examples and include them here.
