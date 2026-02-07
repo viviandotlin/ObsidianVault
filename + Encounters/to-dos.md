@@ -5,6 +5,7 @@
 	- [ ] highlight on readwise write down notes
 	- [ ] synthesize highlights into ideas that you can connect
 - [ ] write an essay  with that guide
+- [ ] write a life manifesto 
 
 
 
