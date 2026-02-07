@@ -1,11 +1,3 @@
-Stardew 
-- fun idea
-- turn into a kanban board project, create your own app for it?
-https://stardewvalleywiki.com/Stardew_Valley_Wiki
-
-Simple Newbie guide
-https://community.playstarbound.com/threads/stardew-valley-1-1-newbie-guide.125018/
-
 ### Spring
 ## Day 1
 
@@ -66,19 +58,22 @@ https://community.playstarbound.com/threads/stardew-valley-1-1-newbie-guide.1250
 
 
 ### Day 3 (Wednesday)  Pierre's Shop Closed
- - [ ] Water all crops
- - [ ] Chop down trees (aim for ~5-8 per day)
-	 - [ ] Collect 300 wood to repair beach bridge
-	 - [ ] Collect logs and stumps when found
- - [ ] Clear farm debris
-- [ ] Explore the forest for forage items (Foraging Level 4 by Spring 15)
-- [ ] Check beach daily for forageable items
-- [ ] Explore area near Robin's shop for forage items
-- [ ] Visit as many NPCs as possible daily
-	- [ ] Priority-Marnie (quartz), Caroline (daffodils)
+ - [x] Water all crops
+ - [x] Chop down trees (aim for ~5-8 per day)
+	 - [x] Collect 300 wood to repair beach bridge
+	 - [x] Collect logs and stumps when found
+ - [x] Clear farm debris
+- [x] Explore the forest for forage items (Foraging Level 4 by Spring 15)
+- [x] Check beach daily for forageable items
+- [x] Explore area near Robin's shop for forage items
+- [x] Visit as many NPCs as possible daily
+	- [x] Priority-Marnie (quartz), Caroline (daffodils)
 
 
+https://stardewvalleywiki.com/Stardew_Valley_Wiki
 
+Simple Newbie guide
+https://community.playstarbound.com/threads/stardew-valley-1-1-newbie-guide.125018/
 
 [Steam Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2653922288)
 ## Day 4

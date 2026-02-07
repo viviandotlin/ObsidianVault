@@ -1,4 +1,3 @@
-Robert S
 
 **Human behavior and decisions are heavily influenced by biology**
 - Wheat farmers are more likely to walk around obstacles than rice farmers. **Deeply ingrained ancestral cultural practices can influence individual approaches.** 03:24 
