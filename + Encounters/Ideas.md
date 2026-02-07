@@ -1,0 +1,2 @@
+- [ ] for each core person in your life, write down the favorite things about them and things that they have done for you that you like 
+- [ ] [[Jordan Lin]]
