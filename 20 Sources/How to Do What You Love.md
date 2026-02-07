@@ -1,0 +1,24 @@
+source: https://www.paulgraham.com/love.html
+type:: #source/articles
+
+## Highlights
+- some of the time adults were making you do things, and that was called work; the rest of the time you could do what you wanted, and that was called playing ([View Highlight](https://read.readwise.io/read/01kgnrbtvzte0gf84dqyg52qyc))
+- Then the important question became not how to make money, but what to work on. Ideally these coincided, but some spectacular boundary cases (like Einstein in the patent office) proved they weren't identical. ([View Highlight](https://read.readwise.io/read/01kgnrdzfhpcmr76hfevc3jj38))
+- The definition of work was now to make some original contribution to the world, and in the process not to starve. ([View Highlight](https://read.readwise.io/read/01kgnre9b4ppnred7fndwy3dxr))
+- *How much* are you supposed to like what you do? Unless you know that, you don't know when to stop searching. And if, like most people, you underestimate it, you'll tend to stop searching too early. You'll end up doing something chosen for you by your parents, or the desire to make money, or prestige—or sheer inertia. ([View Highlight](https://read.readwise.io/read/01kgnrf4329hw1454asmvw1nd1))
+- he rule about doing what you love assumes a certain length of time. It doesn't mean, do what will make you happiest this second, but what will make you happiest over some longer period, like a week or a month. ([View Highlight](https://read.readwise.io/read/01kgnrg2wrxcn7gnm1m7f95zcw))
+- fter a while you get tired of lying on the beach. If you want to stay happy, you have to do something. ([View Highlight](https://read.readwise.io/read/01kgnrgbzhq537jdkq9t3yz0em))
+- To be happy I think you have to be doing something you not only enjoy, but admire ([View Highlight](https://read.readwise.io/read/01kgnrhn1yfc2axaqkv7eh6yzw))
+- I think the best test is one Gino Lee taught me: to try to do things that would make your friends say wow ([View Highlight](https://read.readwise.io/read/01kgnrjvyzndhw4g5c02w1t9t6))
+- If you do anything well enough, you'll *make* it prestigious. ([View Highlight](https://read.readwise.io/read/01kgnrkz9g45r15a6nb5pgy4q7))
+- The danger is when money is combined with prestige, as in, say, corporate law, or medicine. A comparatively safe and prosperous career with some automatic baseline prestige is dangerously tempting to someone young, who hasn't thought much about what they really like. ([View Highlight](https://read.readwise.io/read/01kgnrn35qjrr4kx0rhr9bb5jx))
+- The test of whether people love what they do is whether they'd do it even if they weren't paid for it—even if they had to work at another job to make a living ([View Highlight](https://read.readwise.io/read/01kgnrndfemg656h3kzbrrzwpm))
+- How many even discover something they love to work on? A few hundred thousand, perhaps, out of billions. ([View Highlight](https://read.readwise.io/read/01kgnrq8eqmgkd77kpkxxr0ph5))
+- More often people who do great things have careers with the trajectory of a ping-pong ball. They go to school to study A, drop out and get a job doing B, and then become famous for C after taking it up on the side. ([View Highlight](https://read.readwise.io/read/01kgnrqyqbz9pxvcndj3r9x9ec))
+- Is there some test you can use to keep yourself honest? One is to try to do a good job at whatever you're doing, even if you don't like it. ([View Highlight](https://read.readwise.io/read/01kgnrrd5qydh0h5vy97z9cm2v))
+- always produce. For example, if you have a day job you don't take seriously because you plan to be a novelist, are you producing ([View Highlight](https://read.readwise.io/read/01kgnrs3q1qeht9ncanr01wkqb))
+- Are you writing pages of fiction, however bad? As long as you're producing, you'll know you're not merely using the hazy vision of the grand novel you plan to write one day as an opiate. ([View Highlight](https://read.readwise.io/read/01kgnrs0303c46qfttgjjrba28))
+- "Always produce" will discover your life's work the way water, with the aid of gravity, finds the hole in your roof. ([View Highlight](https://read.readwise.io/read/01kgnrsbbrnc0f55ras8m17ez5))
+- The two-job route: to work at things you don't like to get money to work on things you do. ([View Highlight](https://read.readwise.io/read/01kgnsbwqrxs1wpfkbb2kxhdwp))
+- The two-job route is less common than the organic route, because it requires a deliberate choice. It's also more dangerous. Life tends to get more expensive as you get older, so it's easy to get sucked into working longer than you expected at the money job. ([View Highlight](https://read.readwise.io/read/01kgnscrqtyyvq8ymjw0c95pt4))
+- o unless you're fairly sure what you want to do, your best bet may be to choose a type of work that could turn into either an organic or two-job career. ([View Highlight](https://read.readwise.io/read/01kgnseqr82ptpfqmeq9zmrzv2))

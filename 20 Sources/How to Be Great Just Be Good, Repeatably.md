@@ -14,3 +14,4 @@ type:: #source/articles
   • It’s hard to stick with a side project for years, many of which may not be profitable for a long while.
   • It’s easy to give up on someone when you hit a roadblock or the next potential partner becomes available. ([View Highlight](https://read.readwise.io/read/01kg7a7z97v3harc6nzrf7j4y7))
 - “The only way to become excellent is to be endlessly fascinated by doing the same thing over and over. You have to fall in love with boredom.” - [Atomic Habits](https://amzn.to/31t6vQZ), James Clear ([View Highlight](https://read.readwise.io/read/01kg7aa2hkneqzsbaz4r2wqfs8))
+- You may ask, “what makes good, good?”. Ask yourself the question: “If I were to continue this every day for the next year, would I be in a better place?” If the answer is yes, you have a path towards “good”. ([View Highlight](https://read.readwise.io/read/01kgk9d9hybyxrmmd0btsx9z20))
