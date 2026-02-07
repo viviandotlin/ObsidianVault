@@ -1,6 +1,6 @@
 type::  #note/guide 
 
-Writing Routine  based on priority 
+Writing Routine based on priority 
 1. Developing ideas 
     - Start with [Daily working log](https://notes.andymatuschak.org/zXRs9fj5BuX5FmrQzPxqWUs) to splat down ideas and lists, to empty your head and figure out what seems most interesting for you to write about today.
     - Write and revising [Evergreen notes](https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX) 
