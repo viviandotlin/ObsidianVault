@@ -1,4 +1,6 @@
 
+[Grow with Naval Ravikant-Mental Models](https://moulshreee.notion.site/Grow-with-Naval-Ravikant-666e5b06e1de491e93635205ba28588b)
+
 [[The Pareto Principle]]
 [[Jevons Paradox]]
 [[Ikigai]]
